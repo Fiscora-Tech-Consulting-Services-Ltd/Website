@@ -87,7 +87,7 @@ const Card = () => {
         image: aboutprofile2,
         title: {
           head: 'Arya Sawant',
-          designation: 'UX/UI Designer',
+          designation: 'Developer',
           img:arya,
           name:'Twitter'
         },
