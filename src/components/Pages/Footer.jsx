@@ -17,20 +17,20 @@ const Footer = () => {
         <div className='flex items-center '>
 
           <p className="text-lg font-light text-left font-Kanit ">
-            Based in Mumbai, India
+            Based in Lagos, Nigeria
           </p>
 
         </div>
         <div className="mt-1 ml-5">
           <h1 className="whitespace-nowrap font-extrabold font-Kanit uppercase flex justify-center text-[28px] ">
-            SYNTAX  <img src={SElogo} width="50px" /> ERREUR
+            Fiscora
           </h1>
 
         </div>
 
         <div>
           <p className="text-lg font-light text-left font-Kanit ">
-            Software Development Company © 2023
+            IT Consulting Company © 2024
           </p>
 
         </div>
