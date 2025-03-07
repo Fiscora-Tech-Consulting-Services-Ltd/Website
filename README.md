@@ -3,7 +3,7 @@
 ## 🛠️ Installation
 
 1. Fork the repo
-2. Clone the repository ` git clone https://github.com/<USERNAME>/Syntax-Erreur-Website.git`
+2. Clone the repository ` git clone https://github.com/Fiscora-Tech-Consulting-Services-Ltd/Website.git`
 3. Run `cd Website` to change the working directory
 4. Run `npm install`  to install all dependencies
 5. Run `npm run  dev` to start the application
