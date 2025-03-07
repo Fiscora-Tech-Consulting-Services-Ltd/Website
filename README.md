@@ -1,10 +1,10 @@
-# Syntax-Erreur-Website
+# Fiscora-Tech-Website
 
 ## 🛠️ Installation
 
 1. Fork the repo
 2. Clone the repository ` git clone https://github.com/<USERNAME>/Syntax-Erreur-Website.git`
-3. Run `cd syntax-error` to change the working directory
+3. Run `cd Website` to change the working directory
 4. Run `npm install`  to install all dependencies
 5. Run `npm run  dev` to start the application
 6. Visit <https://localhost:3000> to view the application
@@ -23,6 +23,6 @@
 
 ## 💪 Thanks to all Contributors
 
-<a href="https://github.com/Syntax-Erreur/Syntax-Erreur-Website/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Syntax-Erreur/Syntax-Erreur-Website" />
+<a href="https://github.com/Fiscora-Tech/Fiscora-Tech-Website/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Fiscora-Tech/Fiscora-Tech-Website" />
 </a>
